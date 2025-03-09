@@ -3,7 +3,7 @@
 
 
 ## 🖼️ Screenshots
-![Netflix Dashboard View](netflix_dashboard.png)
+![Netflix Dashboard View](https://github.com/adityadevraj01/netflixDashboard/blob/6e6913b50743b626f785768f8fb607937ed23915/Netflix%20Dashboard.png)
 
 ---
 
